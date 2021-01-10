@@ -1,4 +1,5 @@
 # todo
+해당 링크를 보며 따라하면서 만들었습니다. https://youtu.be/6R9g0KaD5oQ
 
 ## Project setup
 ```
